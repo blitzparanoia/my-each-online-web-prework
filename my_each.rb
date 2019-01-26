@@ -5,6 +5,6 @@ def my_each(words)
     yield (array[i])
   
     i += 1
-end
+  end
 words
 end
